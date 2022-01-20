@@ -18,3 +18,9 @@ https://colab.research.google.com/drive/1ucvRgmuSKmfO020ghMAK99Qr6Z3jMqFN?usp=sh
 
 4.3 CIFAR-10 with MLP
 https://colab.research.google.com/drive/1GgyMurQ14Qyh5T6TMn5GDnn5daaFDhqh?usp=sharing
+
+4.5 - YOLOv5 Inferencing & Re-Training
+https://colab.research.google.com/drive/1vAK8QOwxM5Dsb6yufSLX04sZQW9v892c?usp=sharing
+
+More p5+ml5 AI Examples
+https://examples.ml5js.org/
