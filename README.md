@@ -27,3 +27,7 @@ https://colab.research.google.com/drive/1vAK8QOwxM5Dsb6yufSLX04sZQW9v892c?usp=sh
 
 More p5+ml5 AI Examples
 https://examples.ml5js.org/
+
+## Day 3
+Tomato Image Dataset
+https://1drv.ms/u/s!Ajnxd5Cr74oWi64E-28C0GX5CFkJfA?e=NeJoNa
