@@ -8,9 +8,9 @@
 
 [Tomato Maturity Dataset (OneDrive)](https://1drv.ms/u/s!Ajnxd5Cr74oWkLtrWEAIefGAcpTpAg?e=PA5uUu)
 
-[Rakaman video training Hari 1, Sesi 1](https://unitenedumy-my.sharepoint.com/:v:/r/personal/zafri_uniten_edu_my/Documents/Recordings/MARDI%20Workshop%20Day%201%20Session%201-20220119_115221-Meeting%20Recording.mp4?csf=1&web=1&e=1Ki7GR)
+[Rakaman video training Hari 1, Sesi 1](https://unitenedumy-my.sharepoint.com/:v:/g/personal/zafri_uniten_edu_my/Ef5vtJMKSTlIuBRx3vP8OysB2OBjeovJ7hfKQvZKBD4-bQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=ddbEHc)
 
-[Rakaman video training Hari 1, Sesi 2](https://unitenedumy-my.sharepoint.com/:v:/r/personal/zafri_uniten_edu_my/Documents/Recordings/MARDI%20Workshop%20Day%201%20Session%201-20220119_153758-Meeting%20Recording.mp4?csf=1&web=1&e=s6vchs)
+[Rakaman video training Hari 1, Sesi 2](https://unitenedumy-my.sharepoint.com/:v:/g/personal/zafri_uniten_edu_my/EQyyWNpznVZOkief2nkt-LgBjF6ex6A0O7jPi1OxWVYxiw?e=xYRqLn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ## Day 2
 1. [MNIST with Perceptron (Colab)](https://colab.research.google.com/drive/1ucvRgmuSKmfO020ghMAK99Qr6Z3jMqFN?usp=sharing)
